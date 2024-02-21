@@ -1,0 +1,28 @@
+{
+    "hospital1": [
+        {
+            "name": "ambulance1",
+            "phone": "01712312312"
+        }
+    ],
+    "hospital2": [
+        {
+            "name": "ambulance2",
+            "phone": "01712312312"
+        },
+        {
+            "name": "ambulance3",
+            "phone": "01712312312"
+        }
+    ],
+    "hospital3": [
+        {
+            "name": "ambulance4",
+            "phone": "01712312312"
+        },
+        {
+            "name": "ambulance5",
+            "phone": "01712312312"
+        }
+    ]
+}
